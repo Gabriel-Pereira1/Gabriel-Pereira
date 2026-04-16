@@ -19,6 +19,7 @@ Aqui estão as tecnologias que venho estudando e utilizando em meus projetos:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-java-logo-icon-svg-download-png-2945017.png?f=webp&w=256" height="40" alt="csharp logo"  />
 </div>
 
 ---
