@@ -38,3 +38,4 @@ Aqui estão as tecnologias que venho estudando e utilizando em meus projetos:
 
 ### 📫 Como me encontrar
 - 📧 Email: [gabrielpereira.preludio1@gmail.com]
+- 📷 Instagram: [gabriel.pereira.blue]
